@@ -1,0 +1,17 @@
+{
+  "name": "cs554-lab6-server",
+  "version": "1.0.0",
+  "description": "lab 6 server module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Feiyu Chen 10459464",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
