@@ -1,0 +1,20 @@
+{
+  "name": "cs-554-lab-2",
+  "version": "1.0.0",
+  "description": "My lab 2 module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Feiyu Chen 10459464",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "bluebird": "^3.4.7",
+    "express": "^4.14.1",
+    "flat": "^2.0.1",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2"
+  }
+}
